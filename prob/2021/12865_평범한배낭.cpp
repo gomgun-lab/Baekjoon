@@ -7,7 +7,7 @@ int max(int a, int b) {
 }
 
 int main() {
-	int N, K, W, V, MAX, weight, value;
+	int N, K, weight, value;
 
 	cin >> N >> K;
 
